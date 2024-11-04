@@ -34,4 +34,4 @@ It taught me how the OOP works, MVC/Observer patterns, how interfaces works, Pol
 
 
 
-Visual representation made in  VP - how the whole application should work. 
+Visual representation made in  Visual Paradigm - how the whole application should work. 
