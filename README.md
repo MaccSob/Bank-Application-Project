@@ -1,13 +1,12 @@
 Java banking application made in Java for my final grade in University.  You can do some basic functionalities of a bank account like a deposit of amount, withdrawal of amount, etc.
 It taught me how the OOP works, MVC/Observer patterns, how interfaces works, Polymorphism/Inhertitance etc.
 
-No GUI, only console typing
+NO GUI, Only typing commands in console ( e.g withdraw 150 , deposit 250 , balance etc.)
 
 
 
 
 
-g
 
 
 
