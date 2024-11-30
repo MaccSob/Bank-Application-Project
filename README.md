@@ -7,7 +7,7 @@ No GUI, only console typing
 
 
 
-
+g
 
 
 
