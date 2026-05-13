@@ -37,7 +37,8 @@ The application implements an automated notification system under the `ObservePa
 *   📊 **Autonomous External Reporting:** Real-time push notifications sent directly to the `TaxOffice` upon user deposits/withdrawals.
 *   🛡️ **Defensive Fail-Safes:** Full prevention of application crashes thanks to a customized runtime exception bubble.
 
-   ```
+![Project One](https://github.com/MaccSob/Bank-Project/assets/99293752/84c82b17-1c2c-463e-9274-48e70176ad81)
+
 
 ## 📈 Engineering Challenges & Key Learnings
 *   **Decoupling with Patterns:** Gained practical, hands-on experience in decoupling backend software components using the Observer pattern. This prevents the core bank model from being tightly bound to regulatory report components like the `TaxOffice`.
@@ -48,8 +49,6 @@ The application implements an automated notification system under the `ObservePa
 
 
 
-
-![Project One](https://github.com/MaccSob/Bank-Project/assets/99293752/84c82b17-1c2c-463e-9274-48e70176ad81)
 
 
 
